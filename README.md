@@ -7,6 +7,7 @@ When you create an inherited class and need to transfer configuration values fro
 
 ## ✨ Features at a Glance
 <img width="382" height="157" alt="image" src="https://github.com/user-attachments/assets/c58ad54a-8983-48b9-9f7e-0c73b06389a8" />
+
 - Seamless Value Transfer: Copies field values from a Source component to a Target component based on matching field names and types.
 - Reflection Powered: Utilizes C# Reflection, allowing it to work perfectly for:
 - Inherited Classes (e.g., Component2 inheriting from Component1).
